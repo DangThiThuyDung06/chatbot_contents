@@ -1,0 +1,89 @@
+QUY TRÌNH VIẾT CONTENT 
+1.	Xác định giai đoạn thực hiện Content
+-	Attention - Thu hút sự chú ý - Giai đoạn nhận thức
+-	Interest: Quan tâm
+-	Desire: Mong muốn
+-	Action: Thực hiện hành động - Mua, đăng ký,..
+2.	Xác định 5W - 1H 
+-	Who: Bài viết hướng đến ai, viết về ai
+-	What: Bạn muốn người đọc biết điều gì?
+-	When: Thực hiện, triển khai khi nào
+-	Where: Triển khai ở đâu, nền tảng nào
+-	Why: Bài viết để làm gì
+-	How: Thực hiện nó như thế nào
+3.	Xác định mục tiêu 
+-	Mục tiêu cụ thể của nội dung là gì’
+-	Thông qua bài vites bạn muốn nhận được điều gì
+-	Bạn muốn đạt lượt truy cập hay tương tác,... như thế nào
+4.	Xác định Chủ đề cần triển khai (Lập kế hoạch từ khóa,...): Áp dụng Prompt sau: 
+Xác định từ khóa có giá trị thông qua GG ads và sự hỗ trợ từ GPT/Gemnini
+B1: Cung cấp tổng quan về doanh nghiệp cho GPT hiểu về doanh nghiệp mình sau đó mới mở rộng:
+→ 
+B2: Prompt thiện nhất nhất: Bây giờ, giả sử Bạn là một copywriting nhiều kinh nghiệm trong lĩnh vực công nghệ làm việc tại Mekong AI, một công ty về lĩnh vực AI. Hiện tại công ty cần khoảng 30 chủ đề cho các bài viết website. Bạn hãy đưa ra một danh sách các chủ đề hướng đến giai đoạn nhận thức (awareness) của khách hàng trong mô hình AIDA. Các chủ đề gợi ý nên phân tách theo 3 cấp độ tổng quan doanh nghiệp, sản phẩm, dịch vụ; cụ thể về sản phẩm dịch vụ bên MekongAI (Sản phẩm công ty bao gồm AI tạo sinh (trong đó có AI thay đổi trang phục, AI thay đổi gương mặt và AI tạo ảnh) và chatbot, dịch vụ công ty bao gồm tư vấn, đào tạo và cung cấp giải pháp) và cuối cùng các chủ đề giúp khách hàng biết đến lĩnh vực AI và prompt chiếm phần lớn nội dung. Đồng thời cung cấp các chủ đề cung cấp kiến thức về sản phẩm mà doanh nghiệp đang có nhằm cho khách hàng biết đó là gì. Trình bày dạng bảng, phân loại và đưa ra outline cho từng chủ đề
+5.	Lên outline cho chủ đề
+-	Đánh giá, tham khảo bài viết đổi thủ
+-	Sử dụng chatgpt, gemini,...
+Outline nên xác định Tiêu đề phù hợp, hấp dẫn
+Mở đầu → Nội dung→Kết (Thường sử dụng CTA/Liên hệ tới doanh nghiệp)
+6.	Viết bài
+-	Yêu cầu:
++	Hình thức: 
+●	Dễ nhìn, font chữ times new roman, cỡ chữ 13/14 cho nội dung, 16 cho tiêu đề
+●	Nội dung căn 2 bên, khoảng cách 1.5
+●	Phân tách các đoạn văn, không quá 5 dòng cho 1 đoạn, câu ngắn, hạn chế câu quá dài
+●	Tạo outline nhằm tổng quan toàn nội dung chính của bài viết
+●	Hình ảnh sử dụng phải liên quan đến chủ đề, sắc nét,không chứa logo của doanh nghiệp/đơn vị khác
+●	Danh sách (Bullet points): Sử dụng danh sách để liệt kê các ý quan trọng hoặc các bước trong một quy trình.
++	Nội dung:
+●	Không đạo văn, tối thiểu 90% unique
+●	Nội dung cung cấp phải có giá trị với người đọc và doanh nghiệp. Bài viết cần cung cấp thông tin chi tiết, chính xác và hữu ích về chủ đề. Nên sử dụng các nghiên cứu, số liệu và ví dụ cụ thể để minh họa.
+●	Từ ngữ sử dụng dễ hiểu, tự nhiên, không sáo rỗng. Các thuật ngữ/từ ngữ chuyên ngành nên có chú thích nhằm giúp người đọc hiểu rõ nội dung/thông điệp cần truyền tải
+●	Văn phong nên gần gũi, chuyên nghiệp nhưng không quá khô khan.
+●	Nội dung cô đọng ý chính cần truyền tải, hạn chế các câu văn thừa, hoa mỹ
+●	Nội dung liên quan đến doanh nghiệp cần chính xác, cụ thể không nêu quá chung, không tạo sự khác biệt với các đối thủ.
+Ví dụ: Chúng tôi sẽ giúp bạn hiểu được AI là gì → Chúng tôi sẽ giúp bạn hiểu và vận dụng được AI trong các hoạt động với khóa học…trong 2 tháng.
+●	Đặt các nút CTA rõ ràng như “Đăng ký”, “Tìm hiểu thêm”, “Liên hệ ngay” ở các vị trí chiến lược.
++	Đối với SEO: 
+●	Phải đáp ứng các yêu cầu trên, ngoài ra:
+●	Phải đáp ứng các yêu cầu trong file sau: Yêu cầu SEO
+-  Xác định kỹ thuật viết phù hợp: 
+●	Viết theo Công thức AIDA:
+Attention (Chú ý): Thu hút sự chú ý của người đọc ngay từ đầu bằng một tiêu đề ngắn gọn, hấp dẫn hoặc câu mở đầu gợi mở.
+Ví dụ: AI liệu có thay thế con người trong tương lai?
+Interest (Quan tâm): Duy trì sự quan tâm bằng cách cung cấp thông tin thú vị và có liên quan.
+Desire (Mong muốn): Kích thích mong muốn của người đọc bằng cách nhấn mạnh lợi ích hoặc giá trị của sản phẩm/dịch vụ.
+Action (Hành động): Khuyến khích người đọc thực hiện hành động cụ thể (mua hàng, đăng ký, liên hệ).
+●	Kỹ thuật Kim Tự Tháp Ngược:
+
+Bắt đầu với thông tin quan trọng nhất trước, sau đó mới đến các chi tiết bổ sung, cuối cùng là những thông tin bổ sung, kém quan trọng hơn. Phương pháp này thường được sử dụng trong viết báo và tin tức để đảm bảo rằng người đọc nhận được thông tin quan trọng ngay lập tức.
+●	Storytelling (Kể chuyện):
+Sử dụng câu chuyện để truyền đạt thông điệp. Kể chuyện giúp làm cho nội dung trở nên sinh động, dễ nhớ và dễ tiếp nhận hơn.
+●	Kỹ thuật PAS (Problem-Agitate-Solution):
+Problem (Vấn đề): Xác định vấn đề mà đối tượng của bạn đang gặp phải.
+Agitate (Kích động): Nhấn mạnh những khó khăn, hậu quả của vấn đề.
+Solution (Giải pháp): Đưa ra giải pháp và lý giải tại sao giải pháp của bạn là tốt nhất.
+- Phong cách viết: 
+●	Phong cách Thuyết phục:
+Sử dụng lý lẽ, dẫn chứng, và các ví dụ để thuyết phục người đọc tin tưởng và hành động theo lời khuyên của bạn. Phong cách này thường được sử dụng trong viết bài quảng cáo và bán hàng.
+●	Phong cách Giáo dục:
+Tập trung vào việc cung cấp thông tin và kiến thức hữu ích cho người đọc. Phong cách này phù hợp với các bài viết hướng dẫn, bài viết blog chia sẻ kiến thức.
+●	Phong cách Thân thiện:
+Sử dụng ngôn ngữ gần gũi, dễ hiểu và thân thiện để tạo cảm giác kết nối và thân thiện với người đọc. Phong cách này thường được sử dụng trong viết blog cá nhân hoặc các bài viết tương tác cao.
+●	Phong cách Chuyên gia:
+Sử dụng ngôn ngữ chuyên nghiệp, chính xác và đầy đủ các thuật ngữ chuyên ngành. Phong cách này phù hợp với các bài viết kỹ thuật, học thuật hoặc dành cho đối tượng chuyên gia.
+Có thể sử dụng các prompt sau để hỗ trợ thực hiện bài viết:
+●	Đối với bài SEO: Chatgpt không thể tạo bài SEO hoàn chỉnh, chỉ sử dụng để tham khảo ý tưởng, …
+Tôi muốn bạn đóng vai trò là một chuyên gia SEO thành thạo có kinh nghiệm trong lĩnh vực công nghệ. Vui lòng lên outline bao gồm nội dung, meta, url và viết bài chuẩn SEO dài hơn 1500 từ cho website về công nghệ với keyword: “Cách viết Prompt” 
+ Yêu cầu:
+ - Bài viết phải đạt chuẩn rank math
+- Tạo tiêu đề tốt cho SEO, khoảng 60 ký tự, chứa từ khóa chính, phải có sức hấp dẫn cao và có tiềm năng lan truyền trên mạng xã hội.
+- 100% unique, sử dụng ngôn ngữ Markdown
+- Tối ưu hóa SEO.
+- Sử dụng các đoạn văn chi tiết để thu hút người đọc. 
+- Bài viết dài 1500 - 2000 từ, trong đó từ khóa chính xuất hiện 2-3% trong toàn bộ bài SEO.                                                                                                                                 - - Viết theo phong cách trò chuyện như được viết bởi con người (sử dụng giọng điệu thân thiện và trò chuyện để kết nối với đối tượng mục tiêu, sử dụng đại từ nhân xưng, thu hút người đọc, chuyên nghiệp.
+●	Bài đăng Facebook
+1. Vai trò {chuyên gia sáng tạo nội dung MekongAI có chuyên môn lĩnh vực công nghệ}
+ 2. Yêu cầu {2 Bài đăng Facebook, 150 - 200 từ, một vài emojis, 20 - 35 tuổi có nhu cầu về sử dụng chatbot, cung cấp khóa học về Prompt, phương pháp viết bài, từ ngữ, phong cách,...} 
+3. Chủ đề: Kiến thức về Prompt trong AI
+7.	Kiểm tra bài viết đã đáp ứng yêu cầu, chính tả,...
+
